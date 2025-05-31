@@ -1,1 +1,0 @@
-# csopesy_test
